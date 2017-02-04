@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>JenkinsDomain</key>
+	<string>http://w</string>
+	<key>JenkinsAppBuild</key>
+	<string></string>
+	<key>JenkinsJpushAppKey</key>
+	<string></string>
+	<key>JenkinsBaiduMapAppKey</key>
+	<string></string>
+	<key>JenkinsPgyAppKey</key>
+	<string></string>
+	<key>JenkinsWXAppID</key>
+	<string></string>
+	<key>JenkinsWXAppSecret</key>
+	<string></string>
+	<key>JenkinsWXURL</key>
+	<string></string>
+	<key>JenkinsAlipaySchemesKey</key>
+	<string></string>
+	<key>JenkinsUnionPayMode</key>
+	<string></string>
+	<key>JenkinsUMAppKey</key>
+	<string></string>
+	<key>JenkinsQQAppID</key>
+	<string></string>
+	<key>JenkinsQQAppKey</key>
+	<string></string>
+	<key>JenkinsQQURL</key>
+	<string></string>
+	<key>JenkinsSinaAppKey</key>
+	<string></string>
+	<key>JenkinsSinaAppSecret</key>
+	<string></string>
+	<key>JenkinsSinaURL</key>
+	<string></string>
+	<key>JenkinsDoubanAppKey</key>
+	<string></string>
+	<key>JenkinsDoubanAppSecret</key>
+	<string></string>
+	<key>JenkinsTwitterAppID</key>
+	<string></string>
+	<key>JenkinsTwitterAppKey</key>
+	<string></string>
+	<key>JenkinsTwitterURL</key>
+	<string></string>
+	<key>JenkinsFacebookAppID</key>
+	<string></string>
+	<key>JenkinsFacebookAppKey</key>
+	<string></string>
+	<key>JenkinsFacebookURL</key>
+	<string></string>
+</dict>
+</plist>
